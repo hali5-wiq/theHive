@@ -1,0 +1,5 @@
+getgauge
+selenium
+webdriver-manager
+requests
+jproperties
